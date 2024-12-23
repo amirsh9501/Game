@@ -11,7 +11,7 @@ from pygame import *
 WIN_WIDTH = 800 #Ширина создаваемого окна
 WIN_HEIGHT = 640 # Высота
 DISPLAY = (WIN_WIDTH, WIN_HEIGHT) # Группируем ширину и высоту в одну переменную
-BACKGROUND_COLOR = "#004400"
+BACKGROUND_COLOR = "#004400" #Цвет заднего фона
 
 class Camera(object):
     def __init__(self, camera_func, width, height):
