@@ -1,6 +1,5 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
+# Это мое первое изменение в программе
 # Импортируем библиотеку pygame
 import pygame
 from pygame import *
